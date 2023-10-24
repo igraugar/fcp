@@ -32,7 +32,7 @@ where `estimator` is a trained neural network model (`keras.models.Model`) and `
 FCP can also be used as a global feature importance method by computing the composition values of all instances for a given class and aggregating their values:
 
 <p align="center">
-  <img src="https://github.com/igrau/fcp/blob/main/experiments/fcp_german.pdf?raw=true" width="1400" />
+  <img src="https://github.com/igraugar/fcp/blob/main/experiments/fcp_german.png?raw=true" width="1400" />
 </p>
 
 For more details see the [example notebook](experiments/example_german_vs_shap_lrp.ipynb).

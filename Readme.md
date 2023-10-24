@@ -9,7 +9,7 @@ Grau, I., Nápoles, G., Bello, M., Salgueiro, Y., & Jastrzebska, A. (2023). Forw
 LSTCN can be installed from [PyPI](https://pypi.org/project/lstcn)
 
 <pre>
-pip install fcp
+pip install fcp-xai
 </pre>
 
 ## Background

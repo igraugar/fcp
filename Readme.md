@@ -20,6 +20,8 @@ After running FCP, each neuron is described by a composition vector indicating t
 
 The example below shows the results of FCP on the german credit dataset as a measure of feature importance in the last layer. However, FCP is more than a feature importance method, as it assigns composition values to the inner layers of the network as well.
 
+A demo of the visualization of the method in VR can be found [here](https://www.youtube.com/watch?v=NaWl1GPcqsM&t=85s&ab_channel=IselGrau) and the Master Thesis by Juul Linders with details on the implementation of this visualization is available [here](https://research.tue.nl/nl/studentTheses/visualizing-explainable-artificial-intelligence-in-virtual-realit). 
+
 ## Example usage
 
 ```python
